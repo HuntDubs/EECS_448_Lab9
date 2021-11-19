@@ -1,0 +1,24 @@
+header {
+  align-items: center;
+  text-align: center;
+  background-color: yellow;
+  color: Black;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.col-md-8 {
+    padding-right: 50px;
+    background-color: #ededed;
+    border: 4px solid black;
+}
+
+p1 {
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+}
